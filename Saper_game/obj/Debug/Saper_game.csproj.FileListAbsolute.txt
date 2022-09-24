@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Saper_game\Saper_game\obj\Debug\Saper_game.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Saper_game\Saper_game\obj\Debug\Saper_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Saper_game\Saper_game\obj\Debug\Saper_game.Form1.resources
+C:\Users\user\source\repos\Saper_game\Saper_game\obj\Debug\Saper_game.Properties.Resources.resources
+C:\Users\user\source\repos\Saper_game\Saper_game\obj\Debug\Saper_game.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Saper_game\Saper_game\obj\Debug\Saper_game.csproj.CoreCompileInputs.cache
